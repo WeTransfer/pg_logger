@@ -14,6 +14,7 @@ require 'rake'
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
+  gem.version = '1.0.0'
   gem.name = "pg_logger"
   gem.homepage = "https://github.com/WeTransfer/pg_logger"
   gem.license = "MIT"
